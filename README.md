@@ -1,4 +1,4 @@
-spielwiese
+Spielwiese
 ==========
 
-zum testen und lernen
+Zum Testen und Lernen.
